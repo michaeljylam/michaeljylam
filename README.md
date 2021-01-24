@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Michael Lam</h1>
-  <p><strong>👨🏻‍💻 Computer Science &nbsp;|&nbsp; 📚 Carleton University &nbsp;|&nbsp; 🏡 Ottawa, ON</strong></p>
+  <h1>👨🏻‍💻 Michael Lam</h1>
 </div>
 
 <p align="center">
@@ -15,12 +14,19 @@
   </a>
 </p>
 
+## I am currently...
+- 📚 Studying Computer Science as a first-year student at Carleton University
+- 🧬 Minoring in Biology
+- 🏡 Based in Ottawa, ON
+- 📱 Learning iOS app development with SwiftUI
+- 💤 ...and probably waiting for Xcode to finish updating
 
+## GitHub Statistics
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=michaeljylam&hide=issues&count_private=true&show_icons=true&include_all_commits=true&custom_title=GitHub%20Statistics" height="150px" alt="GitHub Statistics">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=michaeljylam&hide=issues&count_private=true&show_icons=true&include_all_commits=true&custom_title=General" height="150px" alt="General Statistics">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeljylam&layout=compact&hide=pug" height="150px" alt="Most Used Languages">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeljylam&layout=compact&hide=pug&custom_title=Languages" height="150px" alt="Language Statistics">
   </a>
 </p>

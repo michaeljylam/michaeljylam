@@ -24,9 +24,9 @@
 ## GitHub Statistics
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=michaeljylam&hide=issues&count_private=true&show_icons=true&include_all_commits=true&custom_title=General" height="150px" alt="General Statistics">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=michaeljylam&hide=issues&hide_rank=true&count_private=true&show_icons=true&include_all_commits=true&custom_title=General" height="150px" alt="General Statistics">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeljylam&layout=compact&hide=pug&custom_title=Languages" height="150px" alt="Language Statistics">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeljylam&layout=compact&custom_title=Languages" height="150px" alt="Language Statistics">
   </a>
 </p>

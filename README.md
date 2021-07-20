@@ -15,11 +15,11 @@
 </p>
 
 ## I am currently...
-- 📚 Studying Computer Science as a first-year student at Carleton University
+- 📚 Studying Computer Science as a second-year student at Carleton University
 - 🧬 Minoring in Biology
 - 🏡 Based in Ottawa, ON
-- 📱 Learning iOS app development with SwiftUI
-- 💤 ...and probably waiting for Xcode to finish updating
+- 💻 Interning at Kinaxis as a Software Developer
+- 💤 ...and probably waiting for Visual Studio to finish "checking for any code updates"
 
 ## GitHub Statistics
 <p align="center">

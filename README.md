@@ -18,8 +18,8 @@
 - 📚 Studying Computer Science as a second-year student at Carleton University
 - 🧬 Minoring in Biology
 - 🏡 Based in Ottawa, ON
-- 💻 Interning at Kinaxis as a Software Developer
-- 💤 ...and probably waiting for Visual Studio to finish "checking for any code updates"
+- 📝 Hosting office hours and marking assignments as a Teaching Assistant for Discrete Structures II (COMP 2804)
+- 📱 Learning iOS and Android app development with SwiftUI and Kotlin
 
 ## GitHub Statistics
 <p align="center">

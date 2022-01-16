@@ -18,7 +18,7 @@
 - 📚 Studying Computer Science as a second-year student at Carleton University
 - 🧬 Minoring in Biology
 - 🏡 Based in Ottawa, ON
-- 📝 Hosting office hours and marking assignments as a Teaching Assistant for Discrete Structures II (COMP 2804)
+- 📝 Conducting tutorials, hosting office hours, and marking assignments as a Teaching Assistant for COMP 2401 (Introduction to Systems Programming)
 - 📱 Learning iOS and Android app development with SwiftUI and Kotlin
 
 ## GitHub Statistics

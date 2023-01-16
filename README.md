@@ -15,11 +15,11 @@
 </p>
 
 ## I am currently...
-- 📚 Studying Computer Science as a second-year student at Carleton University
+- 👨🏻‍🎓 A third-year Computer Science student at Carleton University
 - 🧬 Minoring in Biology
 - 🏡 Based in Ottawa, ON
-- 📝 Conducting tutorials, hosting office hours, and marking assignments as a Teaching Assistant for COMP 2401 (Introduction to Systems Programming)
-- 📱 Learning iOS and Android app development with SwiftUI and Kotlin
+- 📚 Learning about various programming paradigms, human-computer interactions, cryptography and authentication, and the principles of computer networking
+- 💭 Exploring different fields such as iOS app development with SwiftUI and information security
 
 ## GitHub Statistics
 <p align="center">
